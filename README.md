@@ -5,7 +5,7 @@ I'm a Master's student in **Bioinformatics at Georgia Tech** with a background i
 
 ---
 
-### 🧬 Technical Skills
+### Technical Skills
 
 - **Programming & Data:** Python (NumPy, Pandas, PyTorch), R, SQL, Java, JavaScript, C/C++, MATLAB  
 - **Machine Learning:** PyTorch, TensorFlow, scikit-learn; GLMs, random forests, neural networks  
@@ -16,7 +16,7 @@ I'm a Master's student in **Bioinformatics at Georgia Tech** with a background i
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 - **SAM Consensus Sequence Generator**  
   A Python pipeline for parsing SAM alignments and generating consensus sequences from mapped reads, with an emphasis on modular design and testability.  
@@ -27,7 +27,7 @@ I'm a Master's student in **Bioinformatics at Georgia Tech** with a background i
 
 ---
 
-### 🎯 Interests
+### Interests
 
 - Machine learning for biological and genomic data  
 - Computational genomics and sequence analysis  
@@ -35,7 +35,7 @@ I'm a Master's student in **Bioinformatics at Georgia Tech** with a background i
 
 ---
 
-### 📫 I'm currently seeking
+### I'm currently seeking
 
 **Machine Learning, Data Science, or Computational Genomics internships**  
 Summer 2026 and beyond
