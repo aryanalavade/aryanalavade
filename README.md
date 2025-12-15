@@ -1,7 +1,7 @@
 ## Hi, I'm Arya 👋
 🔗 [LinkedIn](https://www.linkedin.com/in/arya-nalavade/)
 
-I'm a Master's student in **Bioinformatics at Georgia Tech** with a background in biomedical engineering and a strong interest in **machine learning, data science, and computational genomics**. I enjoy building reproducible, data-driven tools for analyzing biological data at scale.
+I'm a Master's student in **Bioinformatics at Georgia Tech** with a background in biomedical engineering and a strong interest in **machine learning, data science, and computational genomics**. I enjoy building reproducible, data-driven tools for analyzing large-scale biological data.
 
 ---
 
