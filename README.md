@@ -18,6 +18,10 @@ I'm a Master's student in **Bioinformatics at Georgia Tech** with a background i
 
 ### Featured Projects
 
+- **EMG Grip Classifier**  
+  End-to-end machine learning pipeline for classifying hand grip types from EMG signals recorded via Arduino, including signal preprocessing, feature extraction, model training, and real-time prediction.  
+  👉 [emg-grip-classifier](https://github.com/aryanalavade/emg-grip-classifier)
+  
 - **SAM Consensus Sequence Generator**  
   A Python pipeline for parsing SAM alignments and generating consensus sequences from mapped reads, with an emphasis on modular design and testability.  
   👉 [sam-consensus-pipeline](https://github.com/aryanalavade/sam-consensus-pipeline)
