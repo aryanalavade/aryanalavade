@@ -26,8 +26,7 @@ I'm a Master's student in **Bioinformatics at Georgia Tech** with a background i
   A Python pipeline for parsing SAM alignments and generating consensus sequences from mapped reads, with an emphasis on modular design and testability.  
   👉 [sam-consensus-pipeline](https://github.com/aryanalavade/sam-consensus-pipeline)
 
-- **Needleman–Wunsch Alignment**  
-  Implementation of pairwise global sequence alignment with configurable scoring schemes, demonstrating algorithmic problem-solving and biological sequence analysis.
+
 
 ---
 
