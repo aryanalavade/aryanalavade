@@ -40,8 +40,8 @@ I'm a Master's student in **Bioinformatics at Georgia Tech** with a background i
 
 ### I'm currently seeking
 
-**Machine Learning, Data Science, or Computational Genomics internships**  
-Summer 2026 and beyond
+**Machine Learning, Data Science, or Computational Biology Full Time New Grad Roles**  
+May 2027 and beyond!
 
 ---
 
